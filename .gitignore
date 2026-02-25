@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Generated content (optional - uncomment to track)
+# marketing/content/
+
+# Product context (project-specific, not shared)
+.claude/product-marketing-context.md
